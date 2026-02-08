@@ -16,9 +16,9 @@
 
 
   <a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shera-bhai">
+    <img src="https://komarev.com/ghpvc/?username=harshydv99">
 </a>
-<a href="https://github.com/shera-bhai?tab=followers"><img src="https://img.shields.io/github/followers/shera-bhai?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/harshydv99?tab=followers"><img src="https://img.shields.io/github/followers/harshydv99?label=Followers&style=social" alt="GitHub Badge"></a>
   </h3>
   
 
@@ -55,11 +55,11 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" width="48" height="48"/> </a> 
  </p>
 
-![Shera Bhai Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shera-bhai&layout=compact&theme=midnight-purple&hide_progress=true)
+![Shera Bhai Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshydv99&layout=compact&theme=midnight-purple&hide_progress=true)
 
-![Shera Bhai Github Stats](https://github-readme-stats.vercel.app/api?username=shera-bhai&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
+![Shera Bhai Github Stats](https://github-readme-stats.vercel.app/api?username=harshydv99&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
 
-![Shera Bhai Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=shera-bhai&theme=midnight-purple&include_all_commits=true&count_private=true)
+![Shera Bhai Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshydv99&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 
 <!-- <h3 align="center">
