@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ About Me
 
-- :telescope: I’m learing new stuffs and contributing to **Frontend** & **Backend** for **Building Web Applications.**.
+- :telescope: I’m learing new stuffs and contributing to **Frontend** & **Backend** for **Building Web Applications**.
 
 - :seedling: Exploring fields of **AI, Linux, Cloud Computing & DevOps**.
 
