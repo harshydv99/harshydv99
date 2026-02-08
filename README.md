@@ -2,7 +2,7 @@
 
   <!-- ![header](https://cdn.discordapp.com/attachments/1080206407225311253/1092371320219631656/Shera_Bhai.png) -->
 
- Hey 👋 I'm Shera Bhai
+ Hey 👋 I'm Harsh Yadav
     </p>
     A Passionate Self Learner/Programmer
 
