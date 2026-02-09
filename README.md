@@ -44,14 +44,20 @@
   </p>
     <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"</a>
+    <a href="https://www.nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"</a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/express-js.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://www.supabase.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/supabase.png" alt="supabase" width="48" height="48"</a>
+    <a style="padding-right:8px;" href="https://mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql.png"/> </a> 
+    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a style="padding-right:8px;" href="https://aws.amazon.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a style="padding-right:8px;" href="https://cloud.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> </a>
  </p>
 
 <!-- ![Shera Bhai Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshydv99&layout=compact&theme=midnight-purple&hide_progress=true)
