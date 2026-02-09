@@ -54,9 +54,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" width="48" height="48"/> </a> 
  </p>
 
-![Shera Bhai Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshydv99&layout=compact&theme=midnight-purple&hide_progress=true)
+<!-- ![Shera Bhai Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshydv99&layout=compact&theme=midnight-purple&hide_progress=true)
 
-![Shera Bhai Github Stats](https://github-readme-stats.vercel.app/api?username=harshydv99&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
+![Shera Bhai Github Stats](https://github-readme-stats.vercel.app/api?username=harshydv99&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true) -->
 
 ![Shera Bhai Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshydv99&theme=midnight-purple&include_all_commits=true&count_private=true)
 
